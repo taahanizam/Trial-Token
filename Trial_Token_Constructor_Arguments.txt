@@ -1,0 +1,5 @@
+Arg [0] : name (string): Trial Token
+Arg [1] : symbol (string): TT
+Arg [2] : decimals (uint8): 18
+Arg [3] : totalSupply (uint256): 100000000000000000000000000000000
+Arg [4] : tokenOwnerAddress (address): 0x591833D228671325F3A86D351a686d3845dAA7Bf
